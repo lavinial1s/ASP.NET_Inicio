@@ -1,0 +1,33 @@
+﻿@model ASP.NET_Inicio.Models.Pessoa
+@{
+    ViewData["Title"] = "Cadastro de Clientes";
+}
+
+<div class="text-center">
+    <h3 class="display-4">Cadastro de cliente</h3>
+    @using(Html.BeginForm("Lista","Home",FormMethod.Post))
+    {
+        <fieldset>
+            <legend>Informação de Pessoas</legend>
+            <div>
+                @Html.LabelFor( x => x.PessoaId)
+            </div>
+            <div>
+                @Html.EditorFor( x => x.PessoaId)
+            </div>
+            <div>
+                @Html.LabelFor( x => x.Nome)
+            </div>
+            <div>
+                @Html.EditorFor( x => x.Nome)
+            </div>
+            <div>
+                @Html.LabelFor( x => x.Email)
+            </div>
+            <div>
+                @Html.EditorFor(x => x.Email)
+            </div>
+            <p><p><input type="submit" name="" value="Enviar" /></p></p>
+        </fieldset>
+    }
+</div>
