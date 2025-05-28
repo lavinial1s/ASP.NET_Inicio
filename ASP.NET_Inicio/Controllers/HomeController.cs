@@ -17,7 +17,11 @@ namespace ASP.NET_Inicio.Controllers
         {
             return View();
         }
-
+        [HttpPost]
+        public ActionResult Lista(Pessoa pessoa)
+        {
+            return View(pessoa);
+        }
         public IActionResult Privacy()
         {
             return View();

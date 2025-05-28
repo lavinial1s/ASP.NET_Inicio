@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sammuel\\Desktop\\ASP.NET_Inicio\\",
+  "WorkspaceRootPath": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\ASP.NET_Inicio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{181F9FA5-14C3-47F0-845C-47F30F5F266F}|ASP.NET_Inicio\\ASP.NET_Inicio.csproj|c:\\users\\sammuel\\desktop\\asp.net_inicio\\asp.net_inicio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{181F9FA5-14C3-47F0-845C-47F30F5F266F}|ASP.NET_Inicio\\ASP.NET_Inicio.csproj|solutionrelative:asp.net_inicio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{181F9FA5-14C3-47F0-845C-47F30F5F266F}|ASP.NET_Inicio\\ASP.NET_Inicio.csproj|f:\\2a-ds-pi\\marina e lavinia\\ds\\asp.net_inicio\\asp.net_inicio\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{181F9FA5-14C3-47F0-845C-47F30F5F266F}|ASP.NET_Inicio\\ASP.NET_Inicio.csproj|solutionrelative:asp.net_inicio\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{181F9FA5-14C3-47F0-845C-47F30F5F266F}|ASP.NET_Inicio\\ASP.NET_Inicio.csproj|c:\\users\\sammuel\\desktop\\asp.net_inicio\\asp.net_inicio\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{181F9FA5-14C3-47F0-845C-47F30F5F266F}|ASP.NET_Inicio\\ASP.NET_Inicio.csproj|solutionrelative:asp.net_inicio\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{181F9FA5-14C3-47F0-845C-47F30F5F266F}|ASP.NET_Inicio\\ASP.NET_Inicio.csproj|f:\\2a-ds-pi\\marina e lavinia\\ds\\asp.net_inicio\\asp.net_inicio\\views\\home\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{181F9FA5-14C3-47F0-845C-47F30F5F266F}|ASP.NET_Inicio\\ASP.NET_Inicio.csproj|solutionrelative:asp.net_inicio\\views\\home\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181F9FA5-14C3-47F0-845C-47F30F5F266F}|ASP.NET_Inicio\\ASP.NET_Inicio.csproj|f:\\2a-ds-pi\\marina e lavinia\\ds\\asp.net_inicio\\asp.net_inicio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{181F9FA5-14C3-47F0-845C-47F30F5F266F}|ASP.NET_Inicio\\ASP.NET_Inicio.csproj|solutionrelative:asp.net_inicio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{181F9FA5-14C3-47F0-845C-47F30F5F266F}|ASP.NET_Inicio\\ASP.NET_Inicio.csproj|f:\\2a-ds-pi\\marina e lavinia\\ds\\asp.net_inicio\\asp.net_inicio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{181F9FA5-14C3-47F0-845C-47F30F5F266F}|ASP.NET_Inicio\\ASP.NET_Inicio.csproj|solutionrelative:asp.net_inicio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\ASP.NET_Inicio\\ASP.NET_Inicio\\Views\\Home\\Lista.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET_Inicio\\Views\\Home\\Lista.cshtml",
+              "ToolTip": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\ASP.NET_Inicio\\ASP.NET_Inicio\\Views\\Home\\Lista.cshtml",
+              "RelativeToolTip": "ASP.NET_Inicio\\Views\\Home\\Lista.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T12:26:52.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\ASP.NET_Inicio\\ASP.NET_Inicio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASP.NET_Inicio\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\ASP.NET_Inicio\\ASP.NET_Inicio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASP.NET_Inicio\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:19:11.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sammuel\\Desktop\\ASP.NET_Inicio\\ASP.NET_Inicio\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\ASP.NET_Inicio\\ASP.NET_Inicio\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ASP.NET_Inicio\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Sammuel\\Desktop\\ASP.NET_Inicio\\ASP.NET_Inicio\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\ASP.NET_Inicio\\ASP.NET_Inicio\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ASP.NET_Inicio\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-27T23:19:04.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\Sammuel\\Desktop\\ASP.NET_Inicio\\ASP.NET_Inicio\\Models\\Pessoa.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\ASP.NET_Inicio\\ASP.NET_Inicio\\Models\\Pessoa.cs",
               "RelativeDocumentMoniker": "ASP.NET_Inicio\\Models\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\Sammuel\\Desktop\\ASP.NET_Inicio\\ASP.NET_Inicio\\Models\\Pessoa.cs",
+              "ToolTip": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\ASP.NET_Inicio\\ASP.NET_Inicio\\Models\\Pessoa.cs",
               "RelativeToolTip": "ASP.NET_Inicio\\Models\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T23:17:06.707Z",
               "EditorCaption": ""
